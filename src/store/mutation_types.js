@@ -1,0 +1,36 @@
+export const RECEIVE_TOPICS = 'RECEIVE_TOPICS'
+export const RECEIVE_CATEGORIES = 'RECEIVE_CATEGORIES'
+
+// cart
+export const BUY_BOOK = 'BUY_BOOK'
+export const DELETE_BOOK_FROM_CART = 'DELETE_BOOK_FROM_CART'
+export const CLEAR_CART = 'CLEAR_CART'
+export const SWITCH_BOOK_CHECK_STATE = 'SWITCH_BOOK_CHECK_STATE'
+export const SWITCH_ALL_BOOKS_CHECK_STATE = 'SWITCH_ALL_BOOKS_CHECK_STATE'
+
+// topic
+export const GET_TOPIC = 'GET_TOPIC'
+export const GET_HOTBOOKS = 'GET_HOTBOOKS'
+export const GET_DISCOUNTBOOKS = 'GET_DISCOUNTBOOKS'
+export const GET_NEWBOOKS = 'GET_NEWBOOKS'
+
+// categories
+export const GET_CATEGORIES = 'GET_CATEGORIES'
+export const GET_COMPUTER = 'GET_COMPUTER'
+export const GET_HISTORY = 'GET_HISTORY'
+export const GET_LITERATURE = 'GET_LITERATURE'
+export const GET_ECONOMICS = 'GET_ECONOMICS'
+export const PUSH_ALLBOOKS = 'PUSH_ALLBOOKS'
+
+// users
+export const GET_USERS = 'GET_USERS'
+export const GET_CURRENTUSER = 'GET_CURRENTUSER'
+export const HAS_LOGIN = 'HAS_LOGIN'
+export const NO_LOGIN = 'NO_LOGIN'
+
+
+//comment
+export const GET_COMMENTS = 'GET_COMMENTS'
+
+
+
